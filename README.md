@@ -2,6 +2,8 @@
 
 Este projeto é um compilado de exercícios e trabalhos dos módulos da Pós-Graduação Lato Sensu em Ciência de Dados da Universidade do Estado do Amazonas - UEA.
 
+# Sobre a pós
+
 ## Objetivo Geral
 
 Capacitar recursos humanos para o desenvolvimento de soluções baseadas em Ciência de Dados, propiciando uma formação continuada de profissionais nas áreas de Computação com conceitos, metodologias, tecnologias e técnicas de vanguarda da Ciêcia de Dados, contribuindo assim para a resuloção de problemas contemporâneos e de diversos domínios, que podem impactar positivamente no diferencial competitivo de empresas locais, bem como para o aprimoramento do capital humano existente na regiçao mediante as necessidades da indútria 4.0.
